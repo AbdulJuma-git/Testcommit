@@ -1,0 +1,8 @@
+Weather status for North America:
+Canada: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Bermuda: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Greenland: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+United States Minor Outlying Islands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+United States: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Saint Pierre and Miquelon: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Mexico: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
