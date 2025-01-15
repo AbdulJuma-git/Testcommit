@@ -1,0 +1,54 @@
+Weather status for Europe:
+Norway: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Greece: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Åland Islands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Switzerland: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Croatia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Iceland: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Luxembourg: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Hungary: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Netherlands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Lithuania: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Slovakia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Liechtenstein: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Moldova: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Italy: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Jersey: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Monaco: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Belarus: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Latvia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Andorra: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+France: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Gibraltar: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Denmark: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+North Macedonia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Malta: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Czechia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Guernsey: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Kosovo: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Svalbard and Jan Mayen: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Montenegro: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Faroe Islands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Albania: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Serbia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Ukraine: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Isle of Man: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Estonia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Romania: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Bulgaria: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Germany: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Poland: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+United Kingdom: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Finland: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Sweden: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Vatican City: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Russia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Austria: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Cyprus: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Portugal: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Bosnia and Herzegovina: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Belgium: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Spain: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Slovenia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+San Marino: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Ireland: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
