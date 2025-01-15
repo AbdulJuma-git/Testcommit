@@ -1,0 +1,15 @@
+Weather status for South America:
+Colombia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+French Guiana: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Falkland Islands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Uruguay: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Paraguay: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Bolivia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Chile: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Brazil: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Argentina: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Venezuela: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Peru: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Guyana: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Ecuador: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Suriname: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
