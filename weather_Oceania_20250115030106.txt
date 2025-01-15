@@ -1,0 +1,28 @@
+Weather status for Oceania:
+New Caledonia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Solomon Islands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Marshall Islands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Vanuatu: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Niue: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Nauru: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Cocos (Keeling) Islands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Fiji: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Wallis and Futuna: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Cook Islands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Australia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Tuvalu: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Pitcairn Islands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Christmas Island: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Guam: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Tonga: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Tokelau: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Samoa: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Kiribati: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+French Polynesia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Papua New Guinea: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Palau: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+American Samoa: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Northern Mariana Islands: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Norfolk Island: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+New Zealand: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
+Micronesia: Invalid URL 'history.openweathermap.org': No scheme supplied. Perhaps you meant https://history.openweathermap.org?
